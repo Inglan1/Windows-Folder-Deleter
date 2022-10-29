@@ -1,0 +1,11 @@
+# Windows Folder Deleter
+It deletes the Windows folder
+
+# ⚠ WARNING ⚠
+This will harm your computer. I am not responsible for any damage.
+
+Also it has not been tested yet and is not guaranteed to delete the Windows folder.
+# Usage
+```
+python.exe main.py
+```
