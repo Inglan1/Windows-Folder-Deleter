@@ -13,11 +13,11 @@ git clone https://github.com/Inglan1/Windows-Folder-Deleter.git
 ```
 cd Windows-Folder-Deleter
 ```
-
+then
 ```
 python.exe main.py
 ```
-
+or
 ```
 ./main.bat
 ```
